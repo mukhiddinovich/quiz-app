@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.77fbe60f.css",
+    "main.js": "/static/js/main.585e255c.js",
+    "static/js/787.6f726199.chunk.js": "/static/js/787.6f726199.chunk.js",
+    "static/media/category_vector.png": "/static/media/category_vector.3943703b332814fc7e0a.png",
+    "static/media/quiz_vector.png": "/static/media/quiz_vector.07c7fd95ec2cca23b39a.png",
+    "static/media/results.jpg": "/static/media/results.859604c433791f1c3629.jpg",
+    "static/media/biology.png": "/static/media/biology.d930e4c8bdb1a683561b.png",
+    "static/media/history_icon.png": "/static/media/history_icon.d48c617f50782a3c23e7.png",
+    "static/media/math_icon.png": "/static/media/math_icon.6a51555075cdf2ef1306.png",
+    "index.html": "/index.html",
+    "main.77fbe60f.css.map": "/static/css/main.77fbe60f.css.map",
+    "main.585e255c.js.map": "/static/js/main.585e255c.js.map",
+    "787.6f726199.chunk.js.map": "/static/js/787.6f726199.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77fbe60f.css",
+    "static/js/main.585e255c.js"
+  ]
+}
